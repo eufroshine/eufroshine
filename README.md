@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,1,2,2,3,3,4,4&text=%20Abidzar%20Sabil%20Handoyo%20|%20Code%20Architect%20&fontSize=30&fontAlignY=40&fontAlign=50&fontColor=fff&animation=fadeIn&desc=Building%20Smart%20and%20Stylish%20Systems&descAlign=50&descAlignY=65)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=4000&pause=1000&color=00EFFF&center=true&vCenter=true&width=700&lines=💻+Code+Artist+%26+System+Crafter;⚡+Building+Voltify,+CookShare,+and+Bikinevent;🌌+Where+Tech+Meets+Creativity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=4000&pause=1000&color=00EFFF&center=true&vCenter=true&width=700&lines=Code+Artist+%26+System+Crafter;Building+Voltify,+Tabemono,+and+Bikinevent;Where+Tech+Meets+Creativity" alt="Typing SVG" />
 </p>
 
 ---
