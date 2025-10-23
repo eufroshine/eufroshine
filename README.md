@@ -1,5 +1,5 @@
 <!-- Cyberpunk Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:00eaff&height=230&section=header&text=⚡%20Abidzar%20Sabil%20Handoyo%20|%20Code%20Architect%20👨‍💻&fontSize=28&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:00eaff&height=230&section=header&text=%20Abidzar%20Sabil%20Handoyo%20|%20Code%20Architect%20&fontSize=28&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00EFFF&center=true&vCenter=true&width=700&lines=Code+Artist+%26+System+Crafter;Building+Voltify,+CookShare,+and+Bikinevent;Tech+and+Creativity+are+My+Playground" alt="Typing SVG" />
