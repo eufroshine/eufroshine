@@ -1,22 +1,28 @@
-<!-- Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi,%20I'm%20Abidzar%20Sabil%20Handoyo!%20👋&fontSize=28&fontColor=ffffff&animation=fadeIn)
+<!-- Cyberpunk Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:00eaff&height=230&section=header&text=⚡%20Abidzar%20Sabil%20Handoyo%20|%20Code%20Architect%20👨‍💻&fontSize=28&fontColor=ffffff&animation=fadeIn)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00EFFF&center=true&vCenter=true&width=700&lines=⚡+Code+Artist+%26+System+Crafter;🚀+Building+Voltify,+CookShare,+and+Bikinevent;🌌+Tech+%2B+Creativity+%3D+My+Playground" alt="Typing SVG" />
+</p>
+
+---
 
 ## ⚡ About Me
-I’m a passionate **IT Engineer & Software Developer** who loves building useful, beautiful, and smart systems — from web apps to AI-driven projects.  
-Focused on crafting seamless user experiences and efficient backend systems.
+I’m an **IT Engineer & Software Developer** who blends creativity with technology — building systems that are smart, scalable, and visually immersive.  
+Focused on clean architecture, modern design, and seamless user experiences.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### ⚡ [Voltify](https://github.com/eufroshine/Voltify)
-A web-based system to monitor and calculate home electricity usage in real-time.
+Web-based system to **track and calculate home electricity usage** in real-time.
 
 ### 🍳 [Tabemono](https://github.com/alvinalfandy/TabemonoApp)
-A community-driven social platform to share and discover recipes with **AI-powered recommendations**.
+A social platform for food lovers — share, discover, and get **AI-based recipe recommendations**.
 
 ### 🎉 [Bikinevent](https://github.com/eufroshine/Bikinevent)
-An event management web app for creating, discovering, and joining events effortlessly.
+A complete **event management web app** to create, explore, and join events effortlessly.
 
 ---
 
@@ -42,8 +48,8 @@ An event management web app for creating, discovering, and joining events effort
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eufroshine&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufroshine&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eufroshine&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufroshine&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
@@ -58,9 +64,15 @@ An event management web app for creating, discovering, and joining events effort
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eufroshine&color=blue&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=eufroshine&color=00eaff&style=for-the-badge" alt="Profile views"/>
 </p>
 
-> 💬 “Code with creativity, build with passion, and keep evolving.”  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eufroshine&theme=onestar&no-frame=true&margin-w=15&margin-h=15" />
+</p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer)
+---
+
+> 💬 “Code with creativity, build with passion, and evolve with every line.”
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:6a00ff&height=120&section=footer)
