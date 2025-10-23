@@ -1,8 +1,8 @@
 <!-- Cyberpunk Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:00eaff&height=230&section=header&text=%20Abidzar%20Sabil%20Handoyo%20|%20Code%20Architect%20&fontSize=28&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,1,2,2,3,3,4,4&text=%20Abidzar%20Sabil%20Handoyo%20|%20Code%20Architect%20👾&fontSize=30&fontAlignY=40&fontAlign=50&fontColor=fff&animation=fadeIn&desc=Building%20Smart%20and%20Stylish%20Systems&descAlign=50&descAlignY=65)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00EFFF&center=true&vCenter=true&width=700&lines=Code+Artist+%26+System+Crafter;Building+Voltify,+CookShare,+and+Bikinevent;Tech+and+Creativity+are+My+Playground" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=4000&pause=1000&color=00EFFF&center=true&vCenter=true&width=700&lines=💻+Code+Artist+%26+System+Crafter;⚡+Building+Voltify,+Tabemono,+and+Bikinevent;🌌+Where+Tech+Meets+Creativity" alt="Typing SVG" />
 </p>
 
 ---
@@ -75,4 +75,5 @@ A complete **event management web app** to create, explore, and join events effo
 
 > 💬 “Code with creativity, build with passion, and evolve with every line.”
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:6a00ff&height=120&section=footer)
+<!-- Cyberpunk Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=0,3,2,4,1)
