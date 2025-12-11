@@ -100,28 +100,16 @@ Currently brewing new ideas and building exciting projects. Stay tuned for updat
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eufroshine&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufroshine&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages" height="170"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eufroshine&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufroshine&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eufroshine&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eufroshine&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eufroshine&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=eufroshine&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+</p>
 
 ---
 
@@ -145,6 +133,21 @@ const abidzar = {
 
 ---
 
+## 🏆 Achievements & Stats
+
+<div align="center">
+
+| 📊 **Stats** | 🔥 **Details** |
+|:---:|:---:|
+| **Public Repos** | Check my profile |
+| **Total Commits** | Building consistently |
+| **Languages Used** | 6+ programming languages |
+| **Focus Areas** | Full Stack & System Design |
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -158,21 +161,35 @@ const abidzar = {
 
 ---
 
-## 📈 Profile Stats
+## 📈 Profile Analytics
 
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=eufroshine&color=00eaff&style=for-the-badge&label=PROFILE+VIEWS)
   
+  ![GitHub Followers](https://img.shields.io/github/followers/eufroshine?style=for-the-badge&color=00eaff&labelColor=1a1a1a)
+  ![GitHub Stars](https://img.shields.io/github/stars/eufroshine?style=for-the-badge&color=00eaff&labelColor=1a1a1a)
+  
 </div>
+
+---
+
+## 📝 Latest Activity
+
+<!--START_SECTION:activity-->
+<!-- This section will be automatically updated by GitHub Actions -->
+<!--END_SECTION:activity-->
 
 ---
 
 <div align="center">
   
-  ### 💬 Quote of the Day
+  ### 🎯 Current Goals
   
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  🚀 Expand expertise in cloud architecture  
+  💡 Contribute to open-source projects  
+  📚 Master advanced system design patterns  
+  🌟 Build impactful products that solve real problems
   
 </div>
 
@@ -185,3 +202,12 @@ const abidzar = {
   *Building the future, one commit at a time* 🚀
   
 </div>
+
+---
+
+<!-- Snake eating contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eufroshine/eufroshine/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eufroshine/eufroshine/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eufroshine/eufroshine/output/github-contribution-grid-snake.svg">
+</picture>
