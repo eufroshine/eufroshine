@@ -1,29 +1,66 @@
-<div align="center">
+<!-- Professional Header with Visual Appeal -->
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,1,2,2,3,3,4,4&text=%20Abidzar%20Sabil%20Handoyo%20|%20Full%20Stack%20Developer%20&fontSize=28&fontAlignY=40&fontAlign=50&fontColor=fff&animation=fadeIn&desc=Building%20Scalable%20and%20Innovative%20Solutions&descAlign=50&descAlignY=65)
 
-# Abidzar Sabil Handoyo
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00EFFF&center=true&vCenter=true&width=650&lines=IT+Engineer+%26+Software+Developer;Specializing+in+Full+Stack+Development;Creating+Smart+and+Elegant+Systems" alt="Typing SVG" />
+</p>
 
-### IT Engineer & Full Stack Developer
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=IT+Engineer;Full+Stack+Developer;System+Architect)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=eufroshine&color=00eaff&style=flat-square)](https://github.com/eufroshine)
-[![GitHub Followers](https://img.shields.io/github/followers/eufroshine?style=flat-square&color=00eaff&labelColor=1a1a1a)](https://github.com/eufroshine?tab=followers)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eufroshine&color=00eaff&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/eufroshine?style=for-the-badge&color=00eaff&labelColor=1a1a1a" alt="Followers"/>
+</p>
 
 ---
 
-## Professional Summary
+## About Me
 
-Dedicated IT Engineer and Full Stack Developer with expertise in building scalable, user-centric applications. Specialized in modern web technologies, system architecture, and delivering robust solutions that bridge technical excellence with business objectives.
+**IT Engineer & Full Stack Developer** with a passion for transforming complex problems into elegant, scalable solutions. I specialize in building modern web and mobile applications that combine technical excellence with exceptional user experiences.
 
-**Core Competencies:** Full Stack Development | System Design | Database Architecture | API Development | Agile Methodologies
+**Focus Areas:** Clean Architecture | Modern Design Patterns | System Optimization | User-Centric Development
+
+```javascript
+const developer = {
+    name: "Abidzar Sabil Handoyo",
+    role: "Full Stack Developer",
+    location: "Indonesia",
+    expertise: ["Web Development", "Mobile Apps", "System Design"],
+    currentFocus: "Building impactful solutions with modern technologies",
+    approach: "Clean code, scalable architecture, seamless UX"
+};
+```
+
+---
+
+## Featured Projects
+
+### ⚡ [Voltify](https://github.com/eufroshine/Voltify) - Smart Electricity Management
+**Intelligent home electricity tracking and calculation system**
+
+A comprehensive web-based platform that enables real-time monitoring of electricity consumption with advanced analytics and cost optimization features.
+
+`Node.js` `Express.js` `MySQL` `Chart.js` `Real-time Analytics`
+
+---
+
+### 🍳 [Tabemono](https://github.com/alvinalfandy/TabemonoApp) - Social Culinary Platform
+**AI-powered recipe sharing and discovery**
+
+Social platform connecting food enthusiasts through recipe sharing, culinary exploration, and intelligent AI-based recommendations tailored to user preferences.
+
+`React` `Node.js` `Firebase` `Machine Learning` `Social Features`
+
+---
+
+### 🎉 [Bikinevent](https://github.com/eufroshine/Bikinevent) - Event Management System
+**Complete event lifecycle management**
+
+Full-featured event management platform enabling seamless creation, discovery, and participation in events with intuitive user interface and robust backend.
+
+`PHP` `MySQL` `Bootstrap` `JavaScript` `Responsive Design`
 
 ---
 
 ## Technical Expertise
-
-<div align="center">
 
 ### Programming Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,67 +68,25 @@ Dedicated IT Engineer and Full Stack Developer with expertise in building scalab
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
 ### Frameworks & Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Database & Infrastructure
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## Featured Projects
-
-### Voltify - Smart Electricity Management System
-**Role:** Lead Developer | **Repository:** [View Project](https://github.com/eufroshine/Voltify)
-
-A comprehensive web-based system designed to monitor and calculate residential electricity consumption with real-time analytics and intelligent forecasting capabilities.
-
-**Key Technologies:** Node.js, Express.js, MySQL, Chart.js  
-**Key Features:**
-- Real-time electricity consumption monitoring
-- Historical data analysis and visualization
-- Cost calculation and budget tracking
-- Responsive dashboard interface
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
-### Tabemono - Social Culinary Platform
-**Role:** Full Stack Developer | **Repository:** [View Project](https://github.com/alvinalfandy/TabemonoApp)
-
-A social platform connecting food enthusiasts through recipe sharing, culinary discovery, and AI-powered personalized recommendations.
-
-**Key Technologies:** React, Node.js, Firebase, Machine Learning  
-**Key Features:**
-- User-generated recipe content management
-- AI-based recommendation engine
-- Social networking capabilities
-- Cross-platform responsive design
-
----
-
-### Bikinevent - Event Management Platform
-**Role:** Full Stack Developer | **Repository:** [View Project](https://github.com/eufroshine/Bikinevent)
-
-A complete event management solution enabling users to create, organize, discover, and participate in events through an intuitive web interface.
-
-**Key Technologies:** PHP, MySQL, Bootstrap, JavaScript  
-**Key Features:**
-- Event creation and management system
-- User registration and ticketing
-- Search and discovery functionality
-- Admin dashboard and analytics
-
----
-
-## Skills & Capabilities
+## Core Competencies
 
 <table>
 <tr>
@@ -99,22 +94,22 @@ A complete event management solution enabling users to create, organize, discove
 
 **Frontend Development**
 - Modern JavaScript (ES6+)
-- React.js Component Architecture
-- Responsive Web Design
-- Cross-browser Compatibility
-- Mobile-First Development
-- UI/UX Implementation
+- React.js & Component Architecture
+- Responsive & Mobile-First Design
+- Cross-Browser Compatibility
+- Performance Optimization
+- UI/UX Best Practices
 
 </td>
 <td width="50%" valign="top">
 
 **Backend Development**
-- RESTful API Design
+- RESTful API Design & Development
 - Database Design & Optimization
 - Server-Side Architecture
-- Authentication & Authorization
-- Data Security Best Practices
-- Performance Optimization
+- Authentication & Security
+- Data Management
+- Scalable System Design
 
 </td>
 </tr>
@@ -122,23 +117,23 @@ A complete event management solution enabling users to create, organize, discove
 <td width="50%" valign="top">
 
 **Architecture & Design**
-- Model-View-Controller (MVC)
-- Microservices Architecture
-- Design Patterns
+- MVC Design Pattern
 - Clean Code Principles
-- Scalable System Design
-- Documentation Standards
+- SOLID Principles
+- Design Patterns
+- System Scalability
+- Code Documentation
 
 </td>
 <td width="50%" valign="top">
 
-**Development Practices**
+**Professional Practices**
 - Version Control (Git/GitHub)
-- Agile/Scrum Methodologies
+- Agile Development
 - Code Review & Testing
-- Continuous Integration
 - Problem Solving
 - Team Collaboration
+- Continuous Learning
 
 </td>
 </tr>
@@ -146,61 +141,74 @@ A complete event management solution enabling users to create, organize, discove
 
 ---
 
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eufroshine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufroshine&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eufroshine&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
 ## Professional Development
 
 ```text
-Current Focus Areas:
-├── Cloud Architecture & Deployment
+Current Focus:
+├── Cloud Architecture & Deployment Strategies
 ├── Advanced System Design Patterns
-├── Open Source Contributions
-├── AI/ML Integration
-└── Performance Optimization
+├── AI/ML Integration in Applications
+├── Performance Optimization Techniques
+└── Open Source Contributions
 ```
 
----
-
-## GitHub Statistics
-
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=eufroshine&bg_color=0d1117&color=00eaff&line=00eaff&point=ffffff&area=true&hide_border=true)
-
-</div>
+**Areas of Interest:** Microservices Architecture | DevOps Practices | Scalable Systems | Modern Web Technologies
 
 ---
 
-## Professional Contact
+## Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/abidzar-sabil-21a406305/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abidzarsabil05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/abdzrsbil_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/eufroshine" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abidzar-sabil-21a406305/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abidzarsabil05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eufroshine)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdzrsbil_/)
-
-**Email:** abidzarsabil05@gmail.com  
-**Location:** Indonesia  
-**Status:** Open to opportunities and collaborations
-
-</div>
-
----
-
-## Highlighted Repositories
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eufroshine&repo=Voltify&theme=tokyonight&hide_border=true)](https://github.com/eufroshine/Voltify)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eufroshine&repo=Bikinevent&theme=tokyonight&hide_border=true)](https://github.com/eufroshine/Bikinevent)
-
-</div>
+<p align="center">
+  <strong>Email:</strong> abidzarsabil05@gmail.com | <strong>Location:</strong> Indonesia | <strong>Status:</strong> Open to Opportunities
+</p>
 
 ---
 
-<div align="center">
+## Achievements & Recognition
 
-**Professional Profile** | [GitHub](https://github.com/eufroshine) | [LinkedIn](https://www.linkedin.com/in/abidzar-sabil-21a406305/)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eufroshine&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+</p>
 
-*Committed to delivering excellence through code*
+---
 
-</div>
+## Philosophy
+
+> **"Code with precision, build with purpose, and deliver with excellence."**
+
+<p align="center">
+  <em>Committed to crafting solutions that make a difference</em>
+</p>
+
+---
+
+<!-- Professional Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=0,3,2,4,1)
