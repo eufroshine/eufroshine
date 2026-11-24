@@ -19,7 +19,7 @@ Cara paling aman: taruh file di repo (folder assets/) lalu pakai ./assets/nama.g
   <a href="https://line.me/ti/p/~abidzarsabil"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" /></a>
 </p>
 
-<a href="https://mynickname.com/id1848586"><img src="https://mynickname.com/img.php?id=1848586&sert=1" alt="Certificate for nickname Eufroshine is registered to: https://www.abidzarsabil.dev/" border="0" /></a>
+<a href="https://mynickname.com/id1848586"><img src="https://mynickname.com/forum4t4/Eufroshine.gif" alt="Eufroshine nickname" /></a>
 
 <br><br>
 
