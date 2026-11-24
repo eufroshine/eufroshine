@@ -117,6 +117,20 @@ const abidzar = {
 
 ---
 
+## 🎮 My Nickname
+
+<div align="center">
+
+<a href="https://mynickname.com/id1848586"><img src="https://mynickname.com/img.php?id=1848586&sert=1" alt="Certificate for nickname Eufroshine is registered to: https://www.abidzarsabil.dev/" border="0" /></a>
+<br />
+<a href="https://mynickname.com/id1848586"><img src="https://mynickname.com/forum4t8/Eufroshine.gif" alt="Eufroshine nickname" /></a>
+<br />
+<a href="https://mynickname.com/tags/minecraft">Nicknames for Minecraft</a>
+
+</div>
+
+---
+
 ## 📌 Let's Connect
 
 I'm always open to discussing new projects, creative ideas, or opportunities. Feel free to reach out!
