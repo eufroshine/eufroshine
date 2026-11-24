@@ -3,7 +3,7 @@
 <!-- ====== GIF / GAMBAR HEADER ======
 Ganti URL di bawah dengan GIF pilihanmu.
 Cara paling aman: taruh file di repo (folder assets/) lalu pakai ./assets/nama.gif -->
-<img src="https://media.giphy.com/media/REPLACE_WITH_YOUR_GIF_ID/giphy.gif" width="180" alt="header gif" />
+<img src="https://media.giphy.com/media/[REPLACE_WITH_YOUR_GIF_ID](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW85dmY3MDN4NTlhZTE2a2h2ZDN3cnJjdWN2Z3J2eXpiZGR2NWk1eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YfIqRqgD6HxsPTIwfg/giphy.gif)/giphy.gif" width="180" alt="header gif" />
 
 <h1>Hi there, I'm Abidzar Sabil Handoyo 👋</h1>
 
