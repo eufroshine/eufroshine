@@ -19,6 +19,10 @@ Cara paling aman: taruh file di repo (folder assets/) lalu pakai ./assets/nama.g
   <a href="https://line.me/ti/p/~abidzarsabil"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" /></a>
 </p>
 
+<a href="https://mynickname.com/id1848586"><img src="https://mynickname.com/img.php?id=1848586&sert=1" alt="Certificate for nickname Eufroshine is registered to: https://www.abidzarsabil.dev/" border="0" /></a>
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=eufroshine&label=Profile+views&color=6C63FF&style=flat-square" />
 
 </div>
@@ -112,20 +116,6 @@ const abidzar = {
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=eufroshine&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
-
----
-
-## 🎮 My Nickname
-
-<div align="center">
-
-<a href="https://mynickname.com/id1848586"><img src="https://mynickname.com/img.php?id=1848586&sert=1" alt="Certificate for nickname Eufroshine is registered to: https://www.abidzarsabil.dev/" border="0" /></a>
-<br />
-<a href="https://mynickname.com/id1848586"><img src="https://mynickname.com/forum4t8/Eufroshine.gif" alt="Eufroshine nickname" /></a>
-<br />
-<a href="https://mynickname.com/tags/minecraft">Nicknames for Minecraft</a>
 
 </div>
 
