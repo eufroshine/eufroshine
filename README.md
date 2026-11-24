@@ -1,9 +1,9 @@
-<div align="center">
+<img width="400" height="414" alt="image" src="https://github.com/user-attachments/assets/a3130911-3ddb-4295-b117-eedfdf79adc6" /><div align="center">
 
 <!-- ====== GIF / GAMBAR HEADER ======
 Ganti URL di bawah dengan GIF pilihanmu.
 Cara paling aman: taruh file di repo (folder assets/) lalu pakai ./assets/nama.gif -->
-<img src="https://tenor.com/rMor0KlRLLl.gif" width="180" alt="header gif" />
+<img src="https://media.tenor.com/zTERWK4_wu0AAAAi/png-kitty.gif" width="180" alt="header gif" />
 
 <h1>Hi there, I'm Abidzar Sabil Handoyo 👋</h1>
 
@@ -71,18 +71,15 @@ const abidzar = {
 
 | Project | Description | Tech |
 |---|---|---|
-| **Voltify** | Smart electricity usage analyzer using Fuzzy Logic to help households save energy and cost | React, Vite, Node.js, Express, MongoDB |
+| [**Voltify**](https://voltify.my.id/) | Smart electricity usage analyzer using Fuzzy Logic to help households save energy and cost | React, Vite, Node.js, Express, MongoDB |
 | **Sora Brew** | Specialty coffee ordering platform with personalized recommendations and subscriptions | Vue 3, Node.js, MongoDB |
 | **Tabemono App** | AI-powered social cooking app to share and discover recipes | Flutter, Firebase, Gemini API |
-| **Hazwal** | Company profile website for a chemical supplier | React, Vite |
-| **UPB Lost & Found** | Campus lost and found platform with private chat | Web App |
-| **Hephaest Forge** | All-in-one productivity hub: tasks, files, notes, snippets, calendar, GitHub | Web App |
-| **ChronoText** | Digital museum of the Indonesian language, estimates the era of a text | DeepSeek API, IndoBERT |
+| [**Hazwal**](https://www.hazwal.online/) | Company profile website for a chemical supplier | React, Vite |
+| [**UPB Lost & Found**](https://upb-lost-found.vercel.app/) | Campus lost and found platform with private chat | Web App |
+| [**Hephaest Forge**](https://hephaestforge.tech) | All-in-one productivity hub: tasks, files, notes, snippets, calendar, GitHub | Web App |
+| [**ChronoText**](https://www.chronotext.site/) | Digital museum of the Indonesian language, estimates the era of a text | DeepSeek API, IndoBERT |
 
 👉 More at **[abidzarsabil.dev](https://www.abidzarsabil.dev)**
-
-> [!NOTE]
-> Tambahkan link repo tiap project di tabel ini kalau sudah public, misalnya `[Voltify](https://github.com/eufroshine/NAMA-REPO)`.
 
 ---
 
