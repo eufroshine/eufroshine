@@ -5,7 +5,7 @@ Ganti URL di bawah dengan GIF pilihanmu.
 Cara paling aman: taruh file di repo (folder assets/) lalu pakai ./assets/nama.gif -->
 <img src="https://media.tenor.com/zTERWK4_wu0AAAAi/png-kitty.gif" width="180" alt="header gif" />
 
-<h1>Hi there, I'm Abidzar Sabil Handoyo 👋</h1>
+<h1>Hi there, I'm Abidzar Sabil Handoyo</h1>
 
 <a href="https://github.com/eufroshine">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Aspiring+Software+Engineer;Informatics+Engineering+Student;Researcher+%7C+IEEE+Xplore+%26+SINTA" alt="Typing SVG" />
