@@ -1,4 +1,4 @@
-<img width="400" height="414" alt="image" src="https://github.com/user-attachments/assets/a3130911-3ddb-4295-b117-eedfdf79adc6" /><div align="center">
+<div align="center">
 
 <!-- ====== GIF / GAMBAR HEADER ======
 Ganti URL di bawah dengan GIF pilihanmu.
