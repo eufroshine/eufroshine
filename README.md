@@ -1,214 +1,131 @@
-<!-- Professional Header with Visual Appeal -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,1,2,2,3,3,4,4&text=%20Abidzar%20Sabil%20Handoyo%20|%20Full%20Stack%20Developer%20&fontSize=28&fontAlignY=40&fontAlign=50&fontColor=fff&animation=fadeIn&desc=Building%20Scalable%20and%20Innovative%20Solutions&descAlign=50&descAlignY=65)
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00EFFF&center=true&vCenter=true&width=650&lines=IT+Engineer+%26+Software+Developer;Specializing+in+Full+Stack+Development;Creating+Smart+and+Elegant+Systems" alt="Typing SVG" />
+<!-- ====== GIF / GAMBAR HEADER ======
+Ganti URL di bawah dengan GIF pilihanmu.
+Cara paling aman: taruh file di repo (folder assets/) lalu pakai ./assets/nama.gif -->
+<img src="https://media.giphy.com/media/REPLACE_WITH_YOUR_GIF_ID/giphy.gif" width="180" alt="header gif" />
+
+<h1>Hi there, I'm Abidzar Sabil Handoyo 👋</h1>
+
+<a href="https://github.com/eufroshine">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Aspiring+Software+Engineer;Informatics+Engineering+Student;Researcher+%7C+IEEE+Xplore+%26+SINTA" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://www.abidzarsabil.dev"><img src="https://img.shields.io/badge/Portfolio-abidzarsabil.dev-09090B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abidzar-sabil-handoyo-21a406305/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/__abdzr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:abidzarsabil05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://line.me/ti/p/~abidzarsabil"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eufroshine&color=00eaff&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/eufroshine?style=for-the-badge&color=00eaff&labelColor=1a1a1a" alt="Followers"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=eufroshine&label=Profile+views&color=6C63FF&style=flat-square" />
+
+</div>
 
 ---
 
-## About Me
+## 🙋 A little about me...
 
-**IT Engineer & Full Stack Developer** with a passion for transforming complex problems into elegant, scalable solutions. I specialize in building modern web and mobile applications that combine technical excellence with exceptional user experiences.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eufroshine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eufroshine&theme=tokyonight&hide_border=true" height="165" />
+</div>
 
-**Focus Areas:** Clean Architecture | Modern Design Patterns | System Optimization | User-Centric Development
+<br>
 
-```javascript
-const developer = {
-    name: "Abidzar Sabil Handoyo",
-    role: "Full Stack Developer",
-    location: "Indonesia",
-    expertise: ["Web Development", "Mobile Apps", "System Design"],
-    currentFocus: "Building impactful solutions with modern technologies",
-    approach: "Clean code, scalable architecture, seamless UX"
+I'm an undergraduate student in **Informatics Engineering at Universitas Pelita Bangsa** and a passionate **Full Stack Developer** who enjoys building end-to-end web applications, comfortable on both frontend and backend. I also turn my work into research, with published papers on decision support systems and multi-agent systems.
+
+I did my internship at **PT Hazwal Perdana Mandiri**, where I built the company profile website using React and Vite. Outside of coding, I enjoy reading manga and playing games. 🎮📖
+
+```ts
+const abidzar = {
+  name: "Abidzar Sabil Handoyo",
+  role: ["Full Stack Developer", "Aspiring Software Engineer"],
+  education: "Informatics Engineering @ Universitas Pelita Bangsa",
+  location: "Indonesia 🇮🇩",
+  frontend: ["React", "Next.js", "Vue.js", "TypeScript", "JavaScript", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js", "ASP.NET (C#)", "Laravel (PHP)", "Python", "REST API", "JWT/Auth"],
+  database: ["PostgreSQL", "SQL", "MongoDB", "Supabase", "Firebase"],
+  tools: ["Git & GitHub", "Docker", "Postman", "Figma", "Vercel"],
+  hobbies: ["Reading manga", "Playing games", "Coffee ☕ (∞ cups)"],
+  openToWork: true,
 };
 ```
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-### ⚡ [Voltify](https://github.com/eufroshine/Voltify) - Smart Electricity Management
-**Intelligent home electricity tracking and calculation system**
+<div align="center">
 
-A comprehensive web-based platform that enables real-time monitoring of electricity consumption with advanced analytics and cost optimization features.
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind&perline=8" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,laravel,php,py,flutter&perline=8" /><br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,git,github,docker,postman,figma,vercel&perline=10" />
 
-`Node.js` `Express.js` `MySQL` `Chart.js` `Real-time Analytics`
-
----
-
-### 🍳 [Tabemono](https://github.com/alvinalfandy/TabemonoApp) - Social Culinary Platform
-**AI-powered recipe sharing and discovery**
-
-Social platform connecting food enthusiasts through recipe sharing, culinary exploration, and intelligent AI-based recommendations tailored to user preferences.
-
-`React` `Node.js` `Firebase` `Machine Learning` `Social Features`
+</div>
 
 ---
 
-### 🎉 [Bikinevent](https://github.com/eufroshine/Bikinevent) - Event Management System
-**Complete event lifecycle management**
+## 🚀 Featured Projects
 
-Full-featured event management platform enabling seamless creation, discovery, and participation in events with intuitive user interface and robust backend.
+| Project | Description | Tech |
+|---|---|---|
+| **Voltify** | Smart electricity usage analyzer using Fuzzy Logic to help households save energy and cost | React, Vite, Node.js, Express, MongoDB |
+| **Sora Brew** | Specialty coffee ordering platform with personalized recommendations and subscriptions | Vue 3, Node.js, MongoDB |
+| **Tabemono App** | AI-powered social cooking app to share and discover recipes | Flutter, Firebase, Gemini API |
+| **Hazwal** | Company profile website for a chemical supplier | React, Vite |
+| **UPB Lost & Found** | Campus lost and found platform with private chat | Web App |
+| **Hephaest Forge** | All-in-one productivity hub: tasks, files, notes, snippets, calendar, GitHub | Web App |
+| **ChronoText** | Digital museum of the Indonesian language, estimates the era of a text | DeepSeek API, IndoBERT |
 
-`PHP` `MySQL` `Bootstrap` `JavaScript` `Responsive Design`
+👉 More at **[abidzarsabil.dev](https://www.abidzarsabil.dev)**
 
----
-
-## Technical Expertise
-
-### Programming Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-
-### Frameworks & Technologies
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+> [!NOTE]
+> Tambahkan link repo tiap project di tabel ini kalau sudah public, misalnya `[Voltify](https://github.com/eufroshine/NAMA-REPO)`.
 
 ---
 
-## Core Competencies
+## 📚 Research & Publications
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- 📄 **VOLTIFY: Sistem Pendukung Keputusan Monitoring dan Manajemen Konsumsi Listrik Rumah Tangga Berbasis Web Menggunakan Metode Fuzzy Logic**
+  *JATI (SINTA indexed), Mar 2026, first author* · [DOI: 10.36040/jati.v10i2.16911](https://doi.org/10.36040/jati.v10i2.16911)
 
-**Frontend Development**
-- Modern JavaScript (ES6+)
-- React.js & Component Architecture
-- Responsive & Mobile-First Design
-- Cross-Browser Compatibility
-- Performance Optimization
-- UI/UX Best Practices
-
-</td>
-<td width="50%" valign="top">
-
-**Backend Development**
-- RESTful API Design & Development
-- Database Design & Optimization
-- Server-Side Architecture
-- Authentication & Security
-- Data Management
-- Scalable System Design
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Architecture & Design**
-- MVC Design Pattern
-- Clean Code Principles
-- SOLID Principles
-- Design Patterns
-- System Scalability
-- Code Documentation
-
-</td>
-<td width="50%" valign="top">
-
-**Professional Practices**
-- Version Control (Git/GitHub)
-- Agile Development
-- Code Review & Testing
-- Problem Solving
-- Team Collaboration
-- Continuous Learning
-
-</td>
-</tr>
-</table>
+- 📄 **From Silos to Synergy: Transforming Urban Waste Efficiency Through Collaborative Multi-Agent Systems: A Scoping Review**
+  *IC3INA 2026, indexed in IEEE Xplore, co-author* · [DOI: 10.1109/IC3INA72033.2026.11714525](https://doi.org/10.1109/IC3INA72033.2026.11714525)
 
 ---
 
-## GitHub Statistics
+## 🏅 Certificates
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eufroshine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufroshine&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eufroshine&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+| Certificate | Issuer | Date |
+|---|---|---|
+| [Authors Certificate: IC3INA 2026](https://www.abidzarsabil.dev/certs/ic3ina-2026-author.pdf) | BRIN, IEEE Indonesia Section | 4 Sep 2026 |
+| [Seminar on Informatics Engineering and Environmental Engineering](https://www.abidzarsabil.dev/certs/seminar-pelita-bangsa.pdf) | Faculty of Engineering, Universitas Pelita Bangsa | 8 Aug 2026 |
+| [Networking Basics](https://www.abidzarsabil.dev/certs/cisco-networking-basics.pdf) | Cisco Networking Academy | 25 Dec 2024 |
 
 ---
 
-## Professional Development
+## 📊 Statistics
 
-```text
-Current Focus:
-├── Cloud Architecture & Deployment Strategies
-├── Advanced System Design Patterns
-├── AI/ML Integration in Applications
-├── Performance Optimization Techniques
-└── Open Source Contributions
-```
+<div align="center">
 
-**Areas of Interest:** Microservices Architecture | DevOps Practices | Scalable Systems | Modern Web Technologies
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufroshine&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 
----
+<br><br>
 
-## Connect With Me
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eufroshine&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abidzar-sabil-21a406305/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:abidzarsabil05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/abdzrsbil_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/eufroshine" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  <strong>Email:</strong> abidzarsabil05@gmail.com | <strong>Location:</strong> Indonesia | <strong>Status:</strong> Open to Opportunities
-</p>
+</div>
 
 ---
 
-## Achievements & Recognition
+## 📌 Let's Connect
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eufroshine&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
+I'm always open to discussing new projects, creative ideas, or opportunities. Feel free to reach out!
 
----
+<div align="center">
 
-## Philosophy
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
-> **"Code with precision, build with purpose, and deliver with excellence."**
-
-<p align="center">
-  <em>Committed to crafting solutions that make a difference</em>
-</p>
-
----
-
-<!-- Professional Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=0,3,2,4,1)
+</div>
